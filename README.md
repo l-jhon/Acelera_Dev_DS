@@ -1,4 +1,4 @@
 # Acelera Dev - Data Science
 
-Repository to store challenges in Codenation's Data Science Acceleration
+Repositório para armazenar notebooks de desafios realizados na Aceleração de Data Science da Codenation
 
