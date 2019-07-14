@@ -1,6 +1,6 @@
 # Acelera Dev - Data Science
 
-Repositório para armazenar contéudos de workshops e notebooks de desafios realizados na Aceleração de Data Science da Codenation
+Repositório para armazenar contéudos e notebooks de desafios realizados na Aceleração de Data Science da Codenation
 
 ## 1º Workshop - Introdução a Ciência de Dados
 https://www.youtube.com/watch?v=X9nSqP4hKhs&feature=youtu.be
