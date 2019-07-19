@@ -1,0 +1,19 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.8, pytest-4.6.2, py-1.8.0, pluggy-0.12.0 -- /home/jhon/codenation/data-science-3/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/jhon/codenation/data-science-3
+collecting ... collected 4 items
+
+test_submit.py::test_q1 PASSED                                           [ 25%]
+test_submit.py::test_q2 PASSED                                           [ 50%]
+test_submit.py::test_q3 PASSED                                           [ 75%]
+test_submit.py::test_q4 PASSED                                           [100%]
+
+=============================== warnings summary ===============================
+test_submit.py::test_q4
+  /home/jhon/codenation/data-science-3/main.py:215: FutureWarning: Method .as_matrix will be removed in a future version. Use .values instead.
+    X = df.as_matrix()
+
+-- Docs: https://docs.pytest.org/en/latest/warnings.html
+----- generated xml file: /home/jhon/codenation/data-science-3/output.xml ------
+===================== 4 passed, 1 warnings in 2.48 seconds =====================

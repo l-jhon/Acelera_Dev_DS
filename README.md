@@ -19,5 +19,8 @@ https://www.youtube.com/watch?v=100Gr_n_80Y&feature=youtu.be
 
 ## 6º Workshop - Redução de Dimensionalidade e Seleção de Variáveis
 https://www.youtube.com/watch?v=4Krpfxze_D0&feature=youtu.be
+<<<<<<< HEAD
 
+=======
+>>>>>>> fddfe6e14892393486d839088fc19a1e0e3563dc
 
