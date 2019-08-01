@@ -19,8 +19,9 @@ https://www.youtube.com/watch?v=100Gr_n_80Y&feature=youtu.be
 
 ## 6º Workshop - Redução de Dimensionalidade e Seleção de Variáveis
 https://www.youtube.com/watch?v=4Krpfxze_D0&feature=youtu.be
-<<<<<<< HEAD
 
-=======
->>>>>>> fddfe6e14892393486d839088fc19a1e0e3563dc
+## 7º Workshop - Feature Engineering
+https://www.youtube.com/watch?v=rfcKORTJIoI&feature=youtu.be
 
+## 8º Worshop - Regressão Linear
+https://www.youtube.com/watch?v=wtdzAH4oYKE&feature=youtu.be
