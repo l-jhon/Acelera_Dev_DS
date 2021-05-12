@@ -76,7 +76,7 @@
     "@phosphor/signaling": "^1.2.3",
     "@phosphor/widgets": "^1.8.0",
     "ajv": "^6.5.5",
-    "codemirror": "~5.47.0",
+    "codemirror": "~5.58.2",
     "es6-promise": "~4.2.6",
     "json5": "^2.1.0",
     "moment": "^2.24.0",
